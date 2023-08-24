@@ -1,9 +1,10 @@
-# R Projects 
-# These are projects I have done at my time at UCLA Fall 2021 - Spring 2023
-# Most of these projects handles with data science and econometrics
-# 1st Project : AR, MA Methods
+PURPOSE : Data Analysis Clean Project
 
+FRONT_END : Javascript 
+Main user interface for the user. Shows a scroll of all the things the user can do to clean their data. Returns back the file from the GET_CLEAN_DATA API.
 
+DATABASE : MySql or mysqllit 
+If user want to login and create an account and learn data analysis, store user data specifically like their past file upload.  
 
-# 2nd Project : Forecasting Class
-
+BACK_END : Python 
+Gets data from the Javascript requests and does the following : clean the data, calculate statistics, provide graphs, 1
